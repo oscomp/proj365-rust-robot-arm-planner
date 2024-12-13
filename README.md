@@ -23,7 +23,7 @@ https://github.com/openrr/openrr/tree/main/openrr-planner
 ## 项目导师
 
 - 丁心民
-- email ding@nnupylot.com
+- email bding@dors-rs.org
 
 ## 赛题分类
 具身智能应用（如机器人、无人车等）
